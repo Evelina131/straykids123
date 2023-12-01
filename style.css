@@ -1,0 +1,77 @@
+body{
+    background-color: #a0e9f4;
+    font-family: sans-serif;
+}
+p img{
+    border:3px solid rgb(60, 165, 251);
+}
+header{
+    background-color: rgb(48, 132, 229);
+}
+.button{
+    background-color: rgba(55, 193, 239, 0.279);
+    border:2px solid rgba(63, 175, 255, 0.546);
+    border-radius: 15px;
+    padding: 10px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    width: 150px;
+}
+.ee{
+    text-align: left;
+}
+main b{
+    color: rgb(0, 135, 147)
+}
+main img{
+    width: 600px;
+    float:left;
+}
+td{
+    border: 3px solid rgb(0, 106, 181);
+}
+footer img{
+    text-align: left;
+}
+footer{
+    background-color: rgb(31, 219, 236);
+    color: white
+}
+span{
+    color: rgb(255, 213, 213)
+}
+.logo{
+    width:140px
+}
+main a{
+    color: black
+}
+footer a{
+    color: rgb(200, 144, 144)
+}
+.tabletd{
+    background-color: rgb(140, 201, 255);
+}
+.tabletd b{
+    color: white
+}
+.button2{
+    padding: 1px;
+    background-color: rgb(0, 213, 255);
+    border-radius: 8px;
+    color: white
+}
+header b{
+    color: white
+}
+.button a{
+    color: rgb(232, 251, 255);
+    text-decoration: none
+}
+main h2{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+main img{
+    border: 3px solid rgb(0, 185, 195)
+}
